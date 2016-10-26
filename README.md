@@ -4,4 +4,4 @@
 
 This repo houses the data necessary to replicate the following paper:
 
-  "Sperm Donor Anonymity and Compensation: An Experiment with American Sperm Donors. Glen Cohen, Travis G. Coan, Michelle Ottey, and Christina      Boyd. 2016. Journal of Law and the Biosciences."
+  "Sperm Donor Anonymity and Compensation: An Experiment with American Sperm Donors. I. Glenn Cohen, Travis G. Coan, Michelle Ottey, and Christina    Boyd. 2016. Journal of Law and the Biosciences."
